@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Method&amp;Class:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Method_Class_jar</output-path>
+    <root id="archive" name="Method&amp;Class.jar">
+      <element id="module-output" name="Method&amp;Class" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-lang3-3.9.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
