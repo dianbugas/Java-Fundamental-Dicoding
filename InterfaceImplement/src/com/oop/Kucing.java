@@ -1,4 +1,8 @@
 package com.oop;
 
-public abstract class Kucing implements Hewan {
+public class Kucing implements Hewan {
+    @Override
+    public void makan(){
+
+    }
 }
